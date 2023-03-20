@@ -1,0 +1,10 @@
+--- MINUTE OF MEETING ---
+A. Planning Migration
+- OCP Akses proxy belum dapet internet perlu koordinasi dengan bc = pending
+- QUAY Butuh request 1 TB LUN untuk diconsume perlu koordinasi dengan mas ricco atau mas khairi = pending
+- JENKINS pipeline DRC sudah runnign ( dari GIT direct promote ke cluster DRC)= done
+- Tambah config pipeline untuk push ke Quay = pending
+- RHV = done
+- SSO sso pods pada saat starup harus menunggu LDAP sync yang take very long time, raise ticket ke RH = Pending
+- SSO v7.6 = done
+- Update Openshift from 4.8 to 4.10 = Pending

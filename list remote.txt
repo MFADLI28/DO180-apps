@@ -1,0 +1,5 @@
+--- VPN BEACUKAI ---
+username: amoro.yoga
+password: Ops@2023!!
+ip:  10.102.120.89
+server: Https://vpn.beacukai.go.id
